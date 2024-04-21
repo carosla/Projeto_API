@@ -76,6 +76,18 @@ O vídeo ["Criando uma Pokédex com React.JS e PokeAPI"](https://www.youtube.com
 
 * **Aluna e desenvolvedora** -  [Ana Carolina Neias](https://github.com/carosla)
 
+## 📸 Prints do Projeto 
+### Tela de carregamento
+![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Carregamento.png?raw=true)
+
+### Tela inicial
+![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Inicial.png?raw=true)
+
+### Filtro de pesquisa
+![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Filtro.png?raw=true)
+
+
+
 
 
 
