@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# ⚡ Pokedéx com REACT.JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório contém o código-fonte de uma Pokédex completa, criada com React.JS e consumindo dados da API PokeAPI.
 
-## Available Scripts
+## 💻 Tecnologias utilizadas
 
-In the project directory, you can run:
+* React.JS
+* PokeAPI
+* Axios (biblioteca para requisições HTTP)
+* Styled Components (biblioteca para estilização de componentes React)
+* React Router (biblioteca para roteamento de páginas)
 
-### `npm start`
+## 📜 Pré-Requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Node.js instalado
+* npm ou yarn instalado globalmente
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔧 Instalação
+### Clone o repositório
+```
+git clone https://github.com/NORTHE/pokedex-react.git
+```
 
-### `npm test`
+### Acesse o diretório do projeto
+```
+cd pokedex
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Instale as dependências
+#### `npm install`
+```
+npm install
+```
 
-### `npm run build`
+#### `Material UI`
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### `Material Icons`
+```
+npm install @mui/icons-material
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### `Axios`
+```
+npm install axios
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### `npm start`
+```
+npm start
+```
 
-### `npm run eject`
+## 🔎 Orientações de utilização
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1 - Acesse http://localhost:3000 no seu navegador\
+2 - Utilize a barra de busca para encontrar um Pokémon específico\
+OBS: Cada pokémon possui seu tipo, ao lado de seu respectivo nome.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Código fonte
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+O código-fonte React está organizado em pastas e arquivos de forma modular.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+`src:`
+* components: Contém os componentes React da aplicação (NavBar, Skeletons e PokemonCard).
+* pages: Contém as páginas da aplicação.
+* App.js: Ponto de entrada da aplicação.
+* package.json: Contém as dependências do projeto e scripts de execução.
 
-## Learn More
+### ▶️ Vídeo de Referência
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O vídeo ["Criando uma Pokédex com React.JS e PokeAPI"](https://www.youtube.com/watch?v=dqMae44pEVk), do canal NORTHE, serviu como base para a criação deste repositório.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ✒️ Autores
 
-### Code Splitting
+* **Aluna e desenvolvedora** -  [Ana Carolina Neias](https://github.com/carosla)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
