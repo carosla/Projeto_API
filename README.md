@@ -1,6 +1,6 @@
 # ⚡ Pokedéx com REACT.JS
 
-Este repositório contém o código-fonte de uma Pokédex completa, criada com React.JS e consumindo dados da API PokeAPI.
+Este repositório contém o código-fonte de uma Pokédex completa, criada para um projeto da matéria Desenvolvimento WEB I, com React.JS e consumindo dados da API PokeAPI.
 
 ## 💻 Tecnologias utilizadas
 
@@ -18,7 +18,7 @@ Este repositório contém o código-fonte de uma Pokédex completa, criada com R
 ## 🔧 Instalação
 ### Clone o repositório
 ```
-git clone https://github.com/NORTHE/pokedex-react.git
+git clone https://github.com/carosla/Projeto_API.git
 ```
 
 ### Acesse o diretório do projeto
