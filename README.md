@@ -87,7 +87,7 @@ O vídeo ["Criando uma Pokédex com React.JS e PokeAPI"](https://www.youtube.com
 ![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Filtro.png?raw=true)
 
 ## 🔗 Link de acesso ao projeto
-Acesse o site pelo link abaixo
+Acesse o site pelo link abaixo:\
 ["Site do Projeto Pokedex"](https://main--jovial-marigold-4b594c.netlify.app)
 
 
