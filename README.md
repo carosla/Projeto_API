@@ -81,7 +81,7 @@ O vídeo ["Criando uma Pokédex com React.JS e PokeAPI"](https://www.youtube.com
 ![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Carregamento.png?raw=true)
 
 ### Tela inicial
-![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Inicial.png?raw=true)
+![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Inicial2.png?raw=true)
 
 ### Filtro de pesquisa
 ![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Filtro.png?raw=true)
