@@ -58,7 +58,7 @@ npm start
 2 - Utilize a barra de busca para encontrar um Pokémon específico\
 OBS: Cada pokémon possui seu tipo, ao lado de seu respectivo nome.
 
-### Código fonte
+## 👩🏻‍💻 Código fonte
 
 O código-fonte React está organizado em pastas e arquivos de forma modular.
 
@@ -85,6 +85,10 @@ O vídeo ["Criando uma Pokédex com React.JS e PokeAPI"](https://www.youtube.com
 
 ### Filtro de pesquisa
 ![](https://github.com/carosla/Projeto_API/blob/main/public/assets/Filtro.png?raw=true)
+
+## 🔗 Link de acesso ao projeto
+Acesse o site pelo link abaixo
+["Site do Projeto Pokedex"](https://main--jovial-marigold-4b594c.netlify.app)
 
 
 
